@@ -3,7 +3,7 @@
 O projeto Robotron 2000 consiste no desenvolvimento de uma página web que o usuario escolhe os valores de criação do robo, como por exemplo, quantidade de pernas, blindagens e foguetes. A partir disto os mesmos sao transformados em pontos de força, energia, velocidade e poder.
 
 ## Preview do Projeto
-![preview]()
+![preview](https://github.com/henriquegoldani/Robotron2000/blob/main/img/previewRobotron.png)
 
 ## O projeto está disponível no github.
 
